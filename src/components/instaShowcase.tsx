@@ -17,7 +17,7 @@ interface ReelData {
 const reels: ReelData[] = [
   {
     id: 'reel-1',
-    videoUrl: '/video4.mp4',
+    videoUrl: '/video.mp4',
     tag: '// WIRELESS_LABS',
     title: 'Setting up the ultra-portable field deck for 2.4GHz / 5GHz signal monitoring.',
     likes: '1.2k',
@@ -25,7 +25,7 @@ const reels: ReelData[] = [
   },
   {
     id: 'reel-2',
-    videoUrl: '/video3.mp4',
+    videoUrl: '/video2.mp4',
     tag: '// WIRELESS_LABS',
     title: 'Setting up the ultra-portable field deck for 2.4GHz / 5GHz signal monitoring.',
     likes: '1.2k',
@@ -33,7 +33,7 @@ const reels: ReelData[] = [
   },
   {
     id: 'reel-3',
-    videoUrl: '/video2.mp4',
+    videoUrl: '/video3.mp4',
     tag: '// BLUETOOTH_AUDITS',
     title: 'Sniffing GATT descriptors on smart IoT locks to map static credentials real-time.',
     likes: '948',
@@ -41,7 +41,7 @@ const reels: ReelData[] = [
   },
   {
     id: 'reel-4',
-    videoUrl: '/video.mp4',
+    videoUrl: '/video4.mp4',
     tag: '// HARDWARE_STATION',
     title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
     likes: '1.5k',
@@ -50,6 +50,54 @@ const reels: ReelData[] = [
   {
     id: 'reel-5',
     videoUrl: '/video5.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+   {
+    id: 'reel-6',
+    videoUrl: '/video6.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+    {
+    id: 'reel-7',
+    videoUrl: '/video7.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+    {
+    id: 'reel-8',
+    videoUrl: '/video8.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+    {
+    id: 'reel-9',
+    videoUrl: '/video9.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+    {
+    id: 'reel-10',
+    videoUrl: '/video10.mp4',
+    tag: '// HARDWARE_STATION',
+    title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
+    likes: '1.5k',
+    comments: '56'
+  },
+    {
+    id: 'reel-11',
+    videoUrl: '/video11.mp4',
     tag: '// HARDWARE_STATION',
     title: 'Custom logic analyzer setups: tracking UART serial interfaces on unknown firmware boards.',
     likes: '1.5k',
