@@ -1,10 +1,6 @@
 import { Navbar } from '@/components/navbar';
 import { Hero } from '@/components/hero';
-<<<<<<< HEAD
 import Bundles from "@/components/bundles";
-=======
-import { Bundles } from '@/components/bundles';
->>>>>>> 6a1c667bf0d10b62c030e7440508e9d8ae2cc5c8
 import { Intel } from '@/components/intel';
 import { Footer } from '@/components/footer';
 import { InstaShowcase } from '@/components/instaShowcase';
