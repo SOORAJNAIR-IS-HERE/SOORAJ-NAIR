@@ -1,6 +1,6 @@
 import { Navbar } from '@/components/navbar';
 import { Hero } from '@/components/hero';
-import { Bundles } from '@/components/bundles';
+import Bundles from "@/components/bundles";
 import { Intel } from '@/components/intel';
 import { Footer } from '@/components/footer';
 import { InstaShowcase } from '@/components/instaShowcase';
